@@ -1,7 +1,7 @@
 # Bootcamp Kitchen
 Problem Statement:
 
-"“The intense nature of this course has had a negative impact on the average bootcampers eating habits."
+"The intense nature of this course has had a negative impact on the average bootcampers eating habits."
 
 What could help us solve this problem? Bootcamp Kitchen
 
