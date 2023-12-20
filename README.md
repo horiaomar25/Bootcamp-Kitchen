@@ -25,6 +25,7 @@ Install
 To run this project locally, follow these steps:
 
 Clone the repository:
+
 ```git clone <repository_url>```
 
 Navigate to the project directory:
@@ -35,16 +36,14 @@ Install dependencies:
 
 Ensure you have Node.js installed.
 
-bash
-Copy code
-npm install
+```npm install```
+
 Start the server:
 
 Run the following command to start the server:
 
-bash
-Copy code
-npm start
+```npm start```
+
 This will launch the application using node server/app.js.
 
 ## Usage
