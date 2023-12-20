@@ -50,14 +50,6 @@ This will launch the application using node server/app.js.
 
 How to use the project with code examples or instructions.
 
-## Configuration
-
-Any configuration steps required for the project.
-
-## Contributing
-
-Guidelines for contributing to the project, reporting issues, or making pull requests.
-
 ## Credits
 
 Credit to individuals, libraries, or resources that contributed to the project.
