@@ -14,10 +14,6 @@ Bootcamp Kitchen provides us with quick 15 minute recipies that bootcampers coul
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
@@ -47,8 +43,8 @@ Run the following command to start the server:
 This will launch the application using node server/app.js.
 
 ## Usage
-
-How to use the project with code examples or instructions.
+Demo Video:
+https://www.youtube.com/watch?v=Pun7VPBVFn0
 
 ## Credits
 
