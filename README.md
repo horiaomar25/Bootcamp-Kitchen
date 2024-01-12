@@ -42,9 +42,7 @@ Run the following command to start the server:
 
 This will launch the application using node server/app.js.
 
-## Usage
-Demo Video:
-https://www.youtube.com/watch?v=Pun7VPBVFn0
+
 
 ## Credits
 
